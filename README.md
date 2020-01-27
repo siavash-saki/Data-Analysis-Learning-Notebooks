@@ -1,6 +1,6 @@
 # Data Analysis Learning Notebooks
 
-Cheat Sheets for Python Libraries used in Data Analysis
+Learning Notebooks for Python Libraries used in Data Analysis
 
 Numpy, Pandas, Scipy, ...
 
